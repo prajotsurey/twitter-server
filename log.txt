@@ -1,0 +1,2 @@
+profile page is broke since because i removed the url parameter from it's route
+need to find better way to get current user
